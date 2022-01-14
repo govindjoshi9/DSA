@@ -1,0 +1,1 @@
+printf("Dequeueing elemant %d\n",dequeue());
